@@ -1,91 +1,59 @@
-# 🛡️ SlackDevs Manifesto
+# Slackdevs
 
-> Taming Artificial Intelligence
+### Engineering Intelligent Software. Building with AI.
 
----
+**Slackdevs** is an independent AI engineering initiative focused on designing, building, and integrating intelligent software solutions using modern AI technologies.
 
-## 🎯 Our Mission
+We help businesses move beyond AI experimentation and turn emerging capabilities into practical, reliable, and maintainable software.
 
-Transform the relationship between developers and artificial intelligence:
-We don’t want AI to replace humans.
-We want humans to enhance their experience, creativity, and knowledge by using AI as a conscious, ethical, and powerful tool.
+Our approach combines software engineering, AI architecture, product thinking, and human oversight.
 
----
+## What We Do
 
-## 🔥 Our Principles
+- **AI Engineering:** Design and development of AI-powered applications and software solutions.
+- **Claude Integration:** Implementation of Anthropic Claude models, APIs, and Claude Code workflows.
+- **AI Architecture:** Architecture design for LLM applications, agents, tools, and AI-powered systems.
+- **AI Workflow Engineering:** Identification, redesign, and optimization of business workflows using AI.
+- **Technical Research & Prototyping:** Proofs of concept, technical discovery, and validation of emerging technologies.
 
-### 1. **AI Developer Experience First (AIDX)**
+## Technology Focus
 
-AI should improve the developer’s life—not complicate it.
-We aim for workflows that are natural, predictable, fast, and focused.
+Our primary technology ecosystem includes:
 
-### 2. **AI Software Design (AISD)**
+- **AI:** Anthropic Claude, OpenAI, Gemini.
+- **AI Engineering:** Claude API, Claude Code, MCP, Agentic Systems.
+- **Backend:** Node.js, TypeScript, Python.
+- **Frontend & Mobile:** JavaScript, React, Next.js, Flutter.
+- **Data & Infrastructure:** MySQL, PostgreSQL, Vector Databases, APIs, Cloud Infrastructure.
 
-We design software with the idea that AI is part of its lifecycle:
-From analysis to design, generation, and maintenance.
+## Engineering Principles
 
-### 3. **Knowledge First**
+We believe that building software with AI requires more than generating code.
 
-There’s no real growth without documentation, organization, and effective information retrieval.
-SlackDevs turns data chaos into structured, actionable knowledge.
+Our engineering principles:
 
-### 4. **Open Source & Community**
+1. **Human Governance:** Humans remain accountable for architecture, decisions, and outcomes.
+2. **Engineering First:** AI capabilities must be supported by sound engineering practices.
+3. **Documentation Driven:** Requirements, specifications, and architecture should precede implementation.
+4. **Security by Design:** Security, privacy, and responsible AI practices must be considered from the beginning.
+5. **Practical Innovation:** Technology should solve real problems and deliver measurable value.
 
-SlackDevs is built on collaboration, respect for Open Source, and the spirit of sharing to evolve.
-We believe in the power of collective intelligence.
+## Open Source
 
-### 5. **Simplicity and Modularity**
+We believe in sharing knowledge, tools, and engineering practices that help developers and organizations build better software.
 
-SlackDevs is extensible, customizable, and evolutionary.
-Each module should stand alone—and also thrive in synergy.
+Our repositories explore AI engineering, software architecture, automation, integrations, and developer productivity.
 
-### 6. **Transparency and Ethics**
+## About
 
-Every human-AI interaction must be traceable, controllable, and reversible.
-AI doesn’t decide on its own.
-Humans always have the final say.
+Slackdevs is founded and led by **Sebastián Larrauri**, an AI Solutions Architect and Software Engineer specializing in AI systems and software product development.
 
-### 7. **Resilience**
+Official Anthropic certifications and Claude Code expertise support our commitment to building practical AI solutions.
 
-SlackDevs is designed to fail, recover, and learn.
-We design for change, for evolution, for the unexpected.
-
----
-
-## 🌍 Our Vision
-
-A future where human intelligence, augmented by AI,
-is not only more productive,
-but also more creative, more thoughtful, more powerful.
-
-A world where building software is more than writing lines of code—
-it’s about crafting living, flexible, intelligent ideas.
-
-SlackDevs is the first step to make that future not just possible,
-but inevitable.
+- Website: https://slackdevs.com
+- Founder: Sebastián Larrauri
+- GitHub: https://github.com/slackdevs
 
 ---
 
-## 🚀 Our Commitment
-
-* Build open, ethical, and human-centered platforms.
-* Respect the work of developers.
-* Continuously improve the creation experience.
-* Share our progress to empower others.
-* Stay true to the principle that guides us:
-
-> "Tame AI to unleash true human power."
-
----
-
-## 🤝 Join Us
-
-SlackDevs isn’t just a tool.
-It’s a community.
-It’s a revolution.
-
-If you believe AI should empower, not replace,
-if you believe building is both art and science,
-if you believe knowledge should be free and powerful:
-
-**This is your place.**
+*Building with AI. Engineering for the real world.*
