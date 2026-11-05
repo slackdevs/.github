@@ -1,59 +1,55 @@
 # Slackdevs
 
-### Engineering Intelligent Software. Building with AI.
+**Personal Portfolio · Open Source · AI Engineering**
 
-**Slackdevs** is an independent AI engineering initiative focused on designing, building, and integrating intelligent software solutions using modern AI technologies.
+This repository contains the public GitHub organization profile and community guidelines for Slackdevs.
 
-We help businesses move beyond AI experimentation and turn emerging capabilities into practical, reliable, and maintainable software.
+Slackdevs is the personal technology portfolio of **Sebastián Larrauri**, focused on software engineering, artificial intelligence, technical research, and open-source development.
 
-Our approach combines software engineering, AI architecture, product thinking, and human oversight.
+It is also a space to share knowledge, experiments, tools, and projects with the developer community.
 
-## What We Do
+## Main Areas
 
-- **AI Engineering:** Design and development of AI-powered applications and software solutions.
-- **Claude Integration:** Implementation of Anthropic Claude models, APIs, and Claude Code workflows.
-- **AI Architecture:** Architecture design for LLM applications, agents, tools, and AI-powered systems.
-- **AI Workflow Engineering:** Identification, redesign, and optimization of business workflows using AI.
-- **Technical Research & Prototyping:** Proofs of concept, technical discovery, and validation of emerging technologies.
+- **AI Engineering:** AI-powered applications, LLM integrations, agentic systems, and AI architecture.
+- **Anthropic Claude:** Claude API, Claude Code, MCP, AI workflows, and practical implementations.
+- **Software Development:** Architecture, backend, frontend, mobile development, and engineering practices.
+- **Research & Experimentation:** Technical investigations, proof of concepts, and emerging technologies.
+- **Open Source:** Tools, libraries, examples, and resources developed or shared with the community.
 
-## Technology Focus
+## Technology Stack
 
-Our primary technology ecosystem includes:
+Our work and experiments explore technologies including:
 
-- **AI:** Anthropic Claude, OpenAI, Gemini.
-- **AI Engineering:** Claude API, Claude Code, MCP, Agentic Systems.
-- **Backend:** Node.js, TypeScript, Python.
-- **Frontend & Mobile:** JavaScript, React, Next.js, Flutter.
-- **Data & Infrastructure:** MySQL, PostgreSQL, Vector Databases, APIs, Cloud Infrastructure.
+- **AI:** Anthropic Claude, OpenAI, Google Gemini.
+- **AI Development:** Claude Code, MCP, Agentic Systems, RAG.
+- **Languages:** TypeScript, JavaScript, Python, Dart.
+- **Backend:** Node.js, PHP, REST APIs.
+- **Frontend & Mobile:** React, Next.js, Flutter.
+- **Databases:** MySQL, PostgreSQL, MongoDB, Vector Databases.
+- **Infrastructure:**  REST APIs, Docker, VPS, Cloud Infrastructure.
 
-## Engineering Principles
 
-We believe that building software with AI requires more than generating code.
+## Philosophy
 
-Our engineering principles:
+Technology should solve real problems.
 
-1. **Human Governance:** Humans remain accountable for architecture, decisions, and outcomes.
-2. **Engineering First:** AI capabilities must be supported by sound engineering practices.
-3. **Documentation Driven:** Requirements, specifications, and architecture should precede implementation.
-4. **Security by Design:** Security, privacy, and responsible AI practices must be considered from the beginning.
-5. **Practical Innovation:** Technology should solve real problems and deliver measurable value.
+We believe in:
+- Human accountability in AI-powered systems.
+- Engineering fundamentals over technology hype.
+- Documentation and specifications before implementation.
+- Open knowledge sharing and collaborative development.
+- Responsible, secure, and practical AI adoption.
 
-## Open Source
+## Explore
 
-We believe in sharing knowledge, tools, and engineering practices that help developers and organizations build better software.
+- Website & Portfolio: https://slackdevs.com
+- GitHub Organization: https://github.com/slackdevs
+- LinkedIn: https://www.linkedin.com/in/sebastian-larrauri/
 
-Our repositories explore AI engineering, software architecture, automation, integrations, and developer productivity.
+## Contributing
 
-## About
-
-Slackdevs is founded and led by **Sebastián Larrauri**, an AI Solutions Architect and Software Engineer specializing in AI systems and software product development.
-
-Official Anthropic certifications and Claude Code expertise support our commitment to building practical AI solutions.
-
-- Website: https://slackdevs.com
-- Founder: Sebastián Larrauri
-- GitHub: https://github.com/slackdevs
+Contributions, discussions, suggestions, and constructive feedback are welcome.
 
 ---
 
-*Building with AI. Engineering for the real world.*
+**Slackdevs — Building, Learning, and Sharing through Engineering.**
